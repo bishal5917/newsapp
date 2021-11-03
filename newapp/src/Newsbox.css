@@ -1,0 +1,23 @@
+.parent {
+    margin-top: 20px;
+  width: auto;
+  height: auto;
+  /* background-color: #666; */
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.newsparts {
+  height: 420px;
+  width: 350px;
+  background-color: rgb(255, 255, 255);
+  align-items: center;
+  box-shadow: 0 0 10px rgb(197, 217, 221);
+  margin: 20px;
+}
+#headin {
+  display: flex;
+  font-size: 3rem;
+  justify-content: center;
+  text-shadow: 2px 2px #330404;
+}
