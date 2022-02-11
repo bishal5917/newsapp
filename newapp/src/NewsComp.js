@@ -11,7 +11,6 @@ export class NewsComp extends Component {
         return (
             <>
                 <div className="card-body">
-
                     <img src="https://source.unsplash.com/user/c_v_r" className="card-img-top" alt="" />
                     <h5 className="card-title">AOT on early december</h5>
                     <p className="card-text">Attack on titan will be released on early of january
